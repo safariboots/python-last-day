@@ -6,3 +6,6 @@ $ git remote -v
 
  git remote add origin https://github.com/safariboots/python-last-day.git
 $ git push -u origin(이름) master(브랜치) - 최초1회설정
+
+
+..
