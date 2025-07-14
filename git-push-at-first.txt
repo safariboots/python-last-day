@@ -1,0 +1,8 @@
+$ git status
+$ git add .
+$ git commit -m ".."
+$ git log --oneline
+$ git remote -v
+
+ git remote add origin https://github.com/safariboots/python-last-day.git
+$ git push -u origin master

@@ -1,0 +1,16 @@
+.gitignore 파일에 무시할 파일목록 생성
+
+$ git log -p
+커밋의변경사항까지함께출력하는옵션
+$ git log --oneline
+각커밋을요약해한줄씩출력하는옵션
+$ git checkout 커밋해시
+문서내용을특정커밋의내용으로되돌리는깃명령어
+$ git reflog
+ HEAD포인터의참조이력을출력하는깃명령어
+
+git add < > git reset
+git commit < > git reset 커밋해시
+- --soft : 
+- --mixed : 
+- --hard : 
